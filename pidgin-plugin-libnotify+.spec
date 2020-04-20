@@ -3,7 +3,7 @@ Summary:	Provides libnotify interface to Pidgin
 Summary(pl.UTF-8):	Dostarcza interfejs libnotify dla Pidgina
 Name:		pidgin-plugin-libnotify+
 Version:	1.2.2
-Release:	4
+Release:	5
 License:	GPL v3+
 Group:		Applications
 Source0:	https://github.com/downloads/sardemff7/Pidgin-Libnotify-plus/pidgin-libnotify-plus-%{version}.tar.xz
